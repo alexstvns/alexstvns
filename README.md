@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alexstvns
 - 👀 I’m interested in Lord of the Rings and other fantasy epics
-- 🌱 I’m currently learning Python and Data Analytics.
-- 💞️ I’m looking to collaborate on any projects to grow my development skills. 
+- 🌱 I am currently learning AI and LLM concepts. Currently automating my life and job with Python and various technologies.
 - 📫 How to reach me: Alex.Stevens807@gmail.com
 
 <!---
